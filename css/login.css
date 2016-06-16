@@ -1,0 +1,24 @@
+html,body{background:#fff;}
+/*------------------------------header-----------------------------*/
+.fn_header{background:#333;min-height: 30px;padding:5px 0;width:100%;z-index: 99;font-size:14px;}
+.fn_header div{vertical-align: top;line-height: 30px;text-align: center;}
+.goback{width:15%;float:left;color:#fff;text-align: left;text-indent: 5px;}
+.back{position: relative;text-align: left;}
+.back:after{position:absolute;left:8px;top:50%;margin-top:-7px;content:"";border-width:1px 0 0 1px;border-style: solid;border-color:#e0f1cc;width:12px;height:12px;
+-moz-transform: rotate(-45deg);-webkit-transform: rotate(-45deg);transform: rotate(-45deg);}
+.head_center{margin:0 15%;}
+.ww_login{overflow: hidden;text-overflow: ellipsis;white-space: nowrap;color:#fff;font-size: 17px;}
+.head_right{width:15%;color:#fff;margin-left:85%;margin-top:-31px;float:right;}
+/*------------------------------section-------------------------------*/
+.uesr_login{padding:0 25px;}
+.login-logo{padding-top:15%;text-align: center;}
+.info-listing{padding-top:15%;}
+.info-listing li{margin-bottom: 15px;}
+.clearfix:before{content: " ";display: table;}
+.uesr_login i[class^=icon-]{background-repeat: no-repeat;-webkit-background-size: 13px;background-size: 13px;display: inline-block;width:13px;margin-top:9px;
+font-family: uzfonts;speak: none;font-style: normal;font-weight: 400;font-variant: normal;text-transform: none;line-height: 1;-webkit-font-smoothing: antialiased;}
+.info-listing .icon-user{background-image: url(../img/i10.png);height: 14px;float: left;}
+.info-listing .item-main{margin-left:23px;position: relative;}
+.textbox{background:0 0;border:0 none;border-bottom: 1px solid #999;width: 100%;outline: 0;padding:9px 0 7px;font-size:16px;}
+.clearfix:after{clear:both;content: " ";display: table;}
+

@@ -1,0 +1,36 @@
+.full-common{position: relative;margin-top:10px;}
+.slogan-1{background:url(../img/slogan.png) no-repeat;background-size: 111px;text-indent: -9999px;height:55px;width:111px;position: absolute;left:0;top:18px;}
+.full-common img{width:100%;}
+.cont-bar{background: rgba(0,0,0,.6);color: #fff;height: 46px;width: 100%;overflow: hidden;position: absolute;left: 0;bottom: 0;
+display:box;}
+.cont-hd{border-right: 1px solid #fff;height: 36px;width: 38px;margin: 5px 0;padding: 0 5px;line-height: 1;float: left;font-size: 14px;text-align: center;color:#fff;}
+.cont-bd{margin: 0 22px 0 55px;height: 100%;line-height:1.2;padding-top:10px;box-sizing: border-box;}
+.cont-bd:after{margin-top: -4px;position: absolute;
+right: 10px;top: 50%;content: " ";border-width: 1px 1px 0 0;border-style: solid;border-color: #fff;width: 8px;
+height: 8px;-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);-webkit-transform: rotate(45deg);transform: rotate(45deg);}
+
+/*hot-push*/
+.index-mod{background:#fff;border-bottom:1px solid #c8c8c8;margin-top:10px;}
+.hot-push{border:1px solid #c8c8c8;border-left:0;border-right:0;padding:10px;height:22px;}
+.font13{font-size: 13px;}
+.hot-block{color:#333;}
+.hot-push span{margin-right: 10px;vertical-align: middle;}
+.icon-cjy{background:url(../img/i13.png) no-repeat center center;background-size: 25px;width:25px;height:19px;display:inline-block;}
+.hot-more{position: relative;margin-right: 10px;color:#999;font-style: normal;float:right;}
+
+figure{margin:0;padding:0;border:0;font-size: 100%;font:inherit;vertical-align:baseline;-webkit-margin-before: 1em;-webkit-margin-after: 1em;-webkit-margin-start: 40px;-webkit-margin-end: 40px;}
+
+.line-pic{position: relative;}
+.line-pic img{width: 100%;vertical-align: middle;}
+.site-name{text-shadow: 1px 1px 1px rgba(0,0,0,.5);position: absolute;left:10px;top:10px;color:#fff;font-size:18px;}
+.price-mod{background: #f93868;color:#fff;padding:2px 5px;position: absolute;bottom:5px;right: 0;}
+.price{font-size: 19px;font-weight: 700;font-style: normal;}
+.price .font19{font-style: normal;}
+.line-hd{max-height: 38px;overflow: hidden;padding:5px 10px;font-size:14px;}
+
+
+/*index-footer*/
+.index-footer{margin-top:20px;/*background:#f5f5f5;*/}
+.bottom-wwtip{padding-left:3.555%;text-align: center;}
+.index-company{display: block;-webkit-margin-before: 1em;-webkit-margin-after: 1em;-webkit-margin-start: 0px;-webkit-margin-end: 0px;}
+.bottom-wwtip  span{margin-right: 2.555%;}
